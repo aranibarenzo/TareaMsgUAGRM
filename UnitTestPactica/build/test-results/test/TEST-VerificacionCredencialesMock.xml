@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="VerificacionCredencialesMock" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-07-13T23:11:36" hostname="SERVERMA" time="0.227">
+  <properties/>
+  <testcase name="verificarLoginMock()" classname="VerificacionCredencialesMock" time="0.199"/>
+  <testcase name="verificarLoginMock_CD()" classname="VerificacionCredencialesMock" time="0.005"/>
+  <testcase name="verificarLoginMock_R()" classname="VerificacionCredencialesMock" time="0.01"/>
+  <testcase name="verificarLoginMock_U()" classname="VerificacionCredencialesMock" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
